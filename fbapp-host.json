@@ -1,4 +1,5 @@
 {
     "host": "xapi02.fbbapp.cc",
-    "yaml_host": "appd01.fbbapp.cc"
+    "yaml_host": "appd01.fbbapp.cc",
+    "x_auth_token": "K9rM2bA7vP5wN8x"
 }
