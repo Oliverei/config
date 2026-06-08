@@ -1,7 +1,7 @@
 {
     "host": "fbapi.web.ak005.com",
-    "yaml_host": "fbapid.apiv2.a047.com",
+    "yaml_host": "fbapi.apiv2.a047.com",
     "x_auth_token": "K9rM2bA7vP5wN8x",
-    "user_agent": "fbclient/1.34.1 (Windows; Windows 11 Home China) ua.net.fbclient.app", 
+    "user_agent": "NetFlow/v3.0.3 clash-verge Platform/android", 
     "vless_server": "applite-fb01.llguanglisf.com"
 }
