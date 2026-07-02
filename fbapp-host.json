@@ -1,6 +1,6 @@
 {
-    "host": "fbapi.web.ak005.com",
-    "yaml_host": "fbapi.apiv2.a047.com",
+    "host": "fbesa.apiv2.a047.com",
+    "yaml_host": "fbesa.web.ak005.com",
     "x_auth_token": "K9rM2bA7vP5wN8x",
     "user_agent": "NetFlow/v3.0.3 clash-verge Platform/android", 
     "vless_server": ""
